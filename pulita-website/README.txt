@@ -91,9 +91,9 @@ each page's <head> with:  <script src="https://cdn.tailwindcss.com"></script>
 5. CONTENT TO CONFIRM BEFORE GOING LIVE
 ---------------------------------------
 Search the HTML for "EDIT:" to find these spots.
-  a) about.html, "The team behind your power": the three portraits show
-     placeholder names/roles ("Team member name" / "Role · Office").
-     Replace them with the correct names and titles.
+  a) about.html, "The team behind your power": John Wang (CEO), Eric Zhao
+     (Sales Manager) and Richard Chinemelum Arannonu (Chief Technical Engineer).
+     Please confirm each portrait is matched to the right person.
   b) contact.html, Abuja Office: no street address was supplied.
      Add the address (an EDIT comment marks the spot).
   c) Mission and vision wording (about.html) is draft copy. Please review.
@@ -117,7 +117,7 @@ Supplied photos and logo (converted from WebP and optimised):
   engineer-laptop-blue-generator.jpg      Engineer with laptop, blue genset (Home hero)
   team-containerized-unit.jpg             Team at containerized unit
   nog-energy-week-team.jpg                Team at NOG Energy Week
-  team-portrait-1.jpg / -2.jpg / -3.jpg   Team portraits
+  team-portrait-1.jpg (John Wang), -2.jpg (Richard C. Arannonu), -3.jpg (Eric Zhao)
 
 Cropped from the supplied brochure PDF:
   pulita-logo-large.jpg                   Large logo (structured data)
